@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\models\\noteentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\notesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\models\\noteentityforfront.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\models\\saverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:models\\saverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\models\\addrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:models\\addrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:models\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\models\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:models\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\configurations\\noteconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\notes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:notes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D594D373-0F53-45B5-95EB-9D82530C1FAD}|..\\NotesServer\\NotesServer.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notesserver\\notesserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:notes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|c:\\users\\q\\source\\repos\\notes2.0\\api\\notes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0204113E-7D0B-4189-82C0-8078A2C7D409}|Notes.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:26:44.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:31:44.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\NotesDbContext.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\NotesDbContext.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\NotesDbContext.cs",
+              "RelativeToolTip": "..\\NotesServer\\NotesDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:37:04.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "Controllers\\NoteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T11:45:37.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteEntityForFront.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Models\\NoteEntityForFront.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\Models\\NoteEntityForFront.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Models\\NoteEntityForFront.cs",
+              "RelativeToolTip": "..\\NotesServer\\Models\\NoteEntityForFront.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:51:55.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoteEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Models\\NoteEntity.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\Models\\NoteEntity.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Models\\NoteEntity.cs",
+              "RelativeToolTip": "..\\NotesServer\\Models\\NoteEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:19:11.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\Models\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Models\\UserEntity.cs",
+              "RelativeToolTip": "..\\NotesServer\\Models\\UserEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:35:51.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\GetUserDTO.cs",
+              "RelativeDocumentMoniker": "Models\\GetUserDTO.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\GetUserDTO.cs",
+              "RelativeToolTip": "Models\\GetUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:41:36.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\SaveRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\SaveRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\SaveRequestDTO.cs",
+              "RelativeToolTip": "Models\\SaveRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:36:38.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "Models\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\AddUserDTO.cs",
+              "RelativeToolTip": "Models\\AddUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:31:48.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\AddRequestDTO.cs",
+              "RelativeDocumentMoniker": "Models\\AddRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Models\\AddRequestDTO.cs",
+              "RelativeToolTip": "Models\\AddRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T05:53:40.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\NotesServer\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:38:59.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NoteConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Configurations\\NoteConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\Configurations\\NoteConfiguration.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Configurations\\NoteConfiguration.cs",
+              "RelativeToolTip": "..\\NotesServer\\Configurations\\NoteConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:54:01.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T09:15:53.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PasswordController.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "Controllers\\PasswordController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:04:51.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T06:14:18.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NotesServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\Program.cs",
+              "RelativeToolTip": "..\\NotesServer\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T09:15:30.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Notes.http",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Notes.http",
+              "RelativeDocumentMoniker": "Notes.http",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Notes.http",
+              "RelativeToolTip": "Notes.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-31T07:33:06.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NotesServer.csproj",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\NotesServer.csproj",
+              "RelativeDocumentMoniker": "..\\NotesServer\\NotesServer.csproj",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\NotesServer\\NotesServer.csproj",
+              "RelativeToolTip": "..\\NotesServer\\NotesServer.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T09:16:12.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Notes.csproj",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Notes.csproj",
+              "RelativeDocumentMoniker": "Notes.csproj",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Notes.csproj",
+              "RelativeToolTip": "Notes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-17T12:43:46.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T12:51:46.425Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\Q\\source\\repos\\Notes2.0\\API\\Notes",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notes", "Notes.csproj", "{0204113E-7D0B-4189-82C0-8078A2C7D409}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NotesServer", "..\NotesServer\NotesServer.csproj", "{D594D373-0F53-45B5-95EB-9D82530C1FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0204113E-7D0B-4189-82C0-8078A2C7D409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0204113E-7D0B-4189-82C0-8078A2C7D409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0204113E-7D0B-4189-82C0-8078A2C7D409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0204113E-7D0B-4189-82C0-8078A2C7D409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D594D373-0F53-45B5-95EB-9D82530C1FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D594D373-0F53-45B5-95EB-9D82530C1FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D594D373-0F53-45B5-95EB-9D82530C1FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D594D373-0F53-45B5-95EB-9D82530C1FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3F661A7-70C3-493C-B3BE-00D699070B62}
+	EndGlobalSection
+EndGlobal
